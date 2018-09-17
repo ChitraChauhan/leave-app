@@ -1,0 +1,27 @@
+/* .apps-nav {
+    color: #fff;
+    margin: 10% 7%;
+  }
+  .apps-nav > div {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .apps-nav .apps-nav-app {
+    width: 47%;
+    height: 130px;
+    background: #1F3652;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 7%;
+  }
+  .apps-nav .apps-nav-app:nth-child(odd) {
+    margin-right: 3%;
+  }
+  .apps-nav .apps-nav-app:nth-child(even) {
+    margin-left: 3%;
+  } */
+
+  
